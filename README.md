@@ -1,1 +1,1 @@
-# linear-regression-model
+This is a linear regression model for analyzing road accidents using dependent and independeent variables.The dependent variable used is Accident severity and the independent variables are vehicle speed,weather conditions,road condition and vehicle type.The benefits that it would have in underdeveloped countries are like resource allocation by the government based on areas with high accidents.Another one is enacting traffic policies and laws in areas prone to accidents.
